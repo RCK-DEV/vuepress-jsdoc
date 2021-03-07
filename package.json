@@ -1,6 +1,6 @@
 {
   "name": "@rck-dev/vuepress-jsdoc",
-  "version": "3.6.3",
+  "version": "3.6.4",
   "description": "Generate jsdoc markdown files for vuepress",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
   "license": "MIT",
   "author": "Philip Stapelfeldt <me@ph1p.dev>",
   "repository": {
-    "url": "https://github.com/RCK-DEV/vuepress-jsdoc#feature/multi-nav-sidebar",
+    "url": "https://github.com/RCK-DEV/vuepress-jsdoc",
     "type": "git"
   },
   "prettier": {
