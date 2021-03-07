@@ -11,6 +11,6 @@ module.exports = {
 		// global component template wrapping all others see #templates
 		// component: require('../template/component').component,
 		// slots: require('../template/slots').slots,
-		// props: require('../template/props').props,
+		props: require('../template/props').props,
 	}
 }
